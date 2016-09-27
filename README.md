@@ -31,5 +31,5 @@ zabbix-get
 
 zabbix-sender
 
-![myimage-alt-tag](/screens/Screenshot-7.png)
+![myimage-alt-tag](/screens/Screenshot-9.png)
 
