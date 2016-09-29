@@ -28,6 +28,9 @@ web monitoring
 custom graph
 ![myimage-alt-tag](/screens/Screenshot-11.png)
 
+tomcat monitoring
+![myimage-alt-tag](/screens/Screenshot-15.png)
+![myimage-alt-tag](/screens/Screenshot-16.png)
 
 
 custom screen
