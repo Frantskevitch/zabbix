@@ -1,4 +1,4 @@
-## zabbix task 2
+## zabbix task 3
 Student: [Aleksandr Frantskevitch](https://upsa.epam.com/workload/employeeView.do?employeeId=4060741400038672408#emplTab=general)
 
 user parameters configuration 
