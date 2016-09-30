@@ -33,13 +33,13 @@ class ldapinstall {
  
   service { 'slapd':
     ensure  => 'running',
-    require => Package['mysql-server'],
+    require => Package['openldap-clients'],
   }
 
    
   package { 'phpldapadmin': 
     ensure =>'latest',
-    require => Package['mysql-server'],
+    require => Package['openldap-clients'],
   }
 
   service { 'httpd':
